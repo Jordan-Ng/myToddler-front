@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-toddler-front/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/my-toddler-front/static/js/main.dfd6be4a.chunk.js",
-    "main.js.map": "/my-toddler-front/static/js/main.dfd6be4a.chunk.js.map",
+    "main.js": "/my-toddler-front/static/js/main.b02e40ab.chunk.js",
+    "main.js.map": "/my-toddler-front/static/js/main.b02e40ab.chunk.js.map",
     "runtime-main.js": "/my-toddler-front/static/js/runtime-main.1f5d75d6.js",
     "runtime-main.js.map": "/my-toddler-front/static/js/runtime-main.1f5d75d6.js.map",
     "static/css/2.1c87f66e.chunk.css": "/my-toddler-front/static/css/2.1c87f66e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1c87f66e.chunk.css",
     "static/js/2.5939f29a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.dfd6be4a.chunk.js"
+    "static/js/main.b02e40ab.chunk.js"
   ]
 }
