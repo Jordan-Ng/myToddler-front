@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <Route exact path='/'>
+      <Route exact path='/mytoddler-front'>
         <div style={{ height: '100vh', width: '100vw', background: 'lightBlue' }}>
           <Login />
         </div>
